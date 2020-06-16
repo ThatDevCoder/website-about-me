@@ -1,4 +1,4 @@
-Portfolio of mine created ONLY using ***React JS ***.
+Portfolio of mine created ONLY using ***React JS***.
 
 
 npm install
